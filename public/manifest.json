@@ -1,0 +1,16 @@
+{
+  "name": "CHARBI - Best Casual Dining Restaurant RR Nagar",
+  "short_name": "CHARBI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#C84B31",
+  "description": "Authentic Naati & Military Hotel Style Casual Dining in RR Nagar, Bengaluru",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
