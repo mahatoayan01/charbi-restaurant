@@ -181,3 +181,4 @@ If you prefer Supabase:
 
 ## 📄 License
 MIT © CHARBI Restaurant. Developed for the food lovers of Rajarajeshwari Nagar, Bengaluru.
+

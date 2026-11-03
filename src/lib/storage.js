@@ -453,3 +453,4 @@ export function exportPaymentsCSV(payments) {
   const csv = [headers.join(","), ...rows.map((r) => r.join(","))].join("\n");
   downloadCSV(`charbi_payments_${new Date().toISOString().split("T")[0]}.csv`, csv);
 }
+

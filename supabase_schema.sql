@@ -65,3 +65,4 @@ CREATE POLICY "Public insert reservations" ON public.reservations FOR INSERT WIT
 CREATE POLICY "Owner access orders" ON public.orders FOR ALL TO authenticated USING (true);
 CREATE POLICY "Owner access payments" ON public.payments FOR ALL TO authenticated USING (true);
 CREATE POLICY "Owner access reservations" ON public.reservations FOR ALL TO authenticated USING (true);
+

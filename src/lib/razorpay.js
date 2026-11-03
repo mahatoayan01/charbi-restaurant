@@ -84,3 +84,4 @@ export async function processPayment({ amount, orderId, customerName, customerPh
     }, 900);
   });
 }
+
